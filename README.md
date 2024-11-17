@@ -117,7 +117,8 @@ endmodule
       
 &emsp;&emsp;After this you can see the window like below <br>
 
-![20241006_041054](https://github.com/user-attachments/assets/d9c6d73b-24f4-4e2d-9a6e-a04c6e381ab9)
+![Screenshot (32)](https://github.com/user-attachments/assets/e50442db-24cc-4e6d-af42-5a776efb203d)
+
 
 **Fig 3:Invoke the Cadence Environment**
 
@@ -131,7 +132,7 @@ endmodule
 
 &emsp;&emsp;It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .<br>
 
-![Picture4](https://github.com/user-attachments/assets/32e0e7a3-c868-4cf2-b00d-f49f959f19f6)
+![Screenshot (32)](https://github.com/user-attachments/assets/ca4eaea5-adc8-4191-bb3a-52db4aacd5d8)
 
 **Fig 4:Setting Multi-step simulation**
 
@@ -139,7 +140,7 @@ endmodule
 
 &emsp;&emsp;Click the cds.lib file and save the file by clicking on Save option <br>
 
-![Picture5](https://github.com/user-attachments/assets/7ec7c023-972c-42a9-bed5-b54b6ec354f6)
+![Screenshot (33)](https://github.com/user-attachments/assets/92391592-0652-4da7-86de-b4dc4e77fed2)
 
 **Fig 5:cds.lib file Creation**
 
@@ -151,7 +152,7 @@ endmodule
 
 &emsp;&emsp;&emsp;&emsp;A Click “OK” in the “nclaunch: Open Design Directory” window as shown in below figure <br>
 
-![Screenshot 2024-10-05 093336](https://github.com/user-attachments/assets/8eaacf8e-98c2-4ce2-b9ac-645d919446dc)
+![Screenshot (27)](https://github.com/user-attachments/assets/8e6dec98-4285-4f39-bbaa-00edb13e7063)
 
 **Fig 6: Selection of Don’t include any libraries**
 
@@ -163,7 +164,7 @@ endmodule
 
 &emsp;&emsp;To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. <br>
 
-![Screenshot 2024-10-05 093427](https://github.com/user-attachments/assets/9f80121f-a628-4847-afd7-d094d7237048)
+![Screenshot (28)](https://github.com/user-attachments/assets/1e341815-8122-49db-a384-ab75260e1643)
 
 **Fig 7: Nclaunch Window**
 
@@ -184,7 +185,7 @@ endmodule
 
 &emsp;&emsp;Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation<br>
 
-![Screenshot 2024-10-05 093508](https://github.com/user-attachments/assets/29cbc647-b490-41bb-b378-023828234b1d)
+![Screenshot (34)](https://github.com/user-attachments/assets/998c025d-1ffe-422c-a68a-2d8495b585a9)
 
 **Fig 8: Compiled database in worklib**
 
@@ -210,7 +211,7 @@ endmodule
    
 &emsp;&emsp;After elaboration the file will come under snapshot. Select the test bench and elaborate it.<br>
 
-![Screenshot 2024-10-05 093552](https://github.com/user-attachments/assets/8169b828-4d0e-43de-bbf3-24916da7ebea)
+![Screenshot (34)](https://github.com/user-attachments/assets/9f5f6d93-05db-4aad-8ba5-a5d3d9ed9d92)
 
 **Fig 9: Elaboration Launch Option**
 
@@ -224,17 +225,20 @@ endmodule
 
 &emsp;&emsp;Steps for simulation – Run the simulation command with simulator options<br>
 
-![Picture3](https://github.com/user-attachments/assets/0585eddd-f9cf-47cf-a00a-3e4ba261713d)
+![Screenshot (35)](https://github.com/user-attachments/assets/9c9cf45d-49e6-4731-94ea-5bdeb48043be)
 
 **Fig 10: Design Browser window for simulation**
 
-![Picture2](https://github.com/user-attachments/assets/2a4594ca-5a50-4a4f-884c-e0cdc8fb6690)
+![Screenshot (36)](https://github.com/user-attachments/assets/733742cc-54c8-4355-bed2-93b8fd396fc6)
 
 **Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window**
 
-![Picture1](https://github.com/user-attachments/assets/903122ee-20d7-4a10-944f-840a7f752368)
+![Screenshot (37)](https://github.com/user-attachments/assets/9bb6ff50-875e-4914-8429-1f144fd0e62c)
 
 **Fig 12: Simulation Waveform Window**
+
+![Screenshot (37)](https://github.com/user-attachments/assets/fad7f8c0-75ea-4bf0-802f-ab94a7c54c6c)
+
 
 
 
